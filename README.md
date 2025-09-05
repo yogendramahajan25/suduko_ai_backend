@@ -1,1 +1,1 @@
-# suduko_ai_backend
+# ai_suduko_solver_backend
